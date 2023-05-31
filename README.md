@@ -7,6 +7,7 @@
 * [Acceptance Criteria](#acceptance-criteria)
 * [EZ List Sit](#ez-list-site)
 * [Walkthrough](#walkthrough)
+* [Future Development](#future-development)
 * [Notes](#notes)
 * [Question](#questions)
 
@@ -29,6 +30,8 @@ MUST protect API keys in Node with environment variables
 ## EZ List Site
 
 ## Walkthrough
+
+## Future Development
 
 ## Notes
 
