@@ -3,6 +3,12 @@
 ## Description
 
 ## Table of Contents
+* [User Story](#user-story)
+* [Acceptance Criteria](#acceptance-criteria)
+* [EZ List Sit](#ez-list-site)
+* [Walkthrough](#walkthrough)
+* [Notes](#notes)
+* [Question](#questions)
 
 ## User Story
 ```
